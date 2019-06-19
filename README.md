@@ -1,4 +1,4 @@
 # KryptoChat
 Secure Instant Messaging Application 
 
-Follow src > co.cleveland.KryptoChat to view classes
+Follow src > Cleveland/Co/KryptoChat to view classes
